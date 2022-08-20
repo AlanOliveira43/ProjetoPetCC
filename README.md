@@ -1,4 +1,4 @@
-[![MIT License][license-badge]][license]
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # ProjetoPetCC
 
@@ -24,6 +24,8 @@ castro_alan11@hotmail.com
 O projeto é dividido em arquivos .hpp e .cpp
 
 ## Contribuidores
-Alan De Castro Oliveira
+Alan De Castro Oliveira  
+Lucas Loureiro A. da S. Eloi
+
 ## License
 [MIT](LICENSE)
